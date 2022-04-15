@@ -67,7 +67,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="215.470868476"
+    width="225.486616616"
     height="12"
     rx="6"
     id="rect4"
@@ -92,7 +92,7 @@
       id="tspan822-6"
       x="520.1073"
       y="-43.01379"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">13 hrs 55 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">14 hrs 33 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -104,7 +104,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="55.974803756"
+    width="56.050394308"
     height="12"
     rx="6"
     id="rect4"
@@ -141,7 +141,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="51.363780084"
+    width="51.401575359999995"
     height="12"
     rx="6"
     id="rect4"
@@ -178,7 +178,7 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="18.368504136000002"
+    width="23.962204984"
     height="12"
     rx="6"
     id="rect4"
@@ -203,7 +203,7 @@
       id="tspan822-6"
       x="520.1073"
       y="31.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">1 hr 11 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">1 hr 32 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -215,12 +215,12 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="11.905511939999998"
+    width="9.184252068000001"
     height="12"
     rx="6"
     id="rect4"
     y="45.348068"
-    style="fill:#083fa1" />
+    style="fill:#ffffff" />
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -230,7 +230,7 @@
       id="tspan822"
       x="4.410491"
       y="56.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">Markdown</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">CMake</tspan></text>
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -240,7 +240,7 @@
       id="tspan822-6"
       x="520.1073"
       y="56.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">46 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">35 mins</tspan></text>
 <!--Docsium::END-->,<!--Docsium::START-->
 <rect
     x="131"
@@ -252,12 +252,12 @@
     style="fill:#283446;stroke-width:0.91341817" />
  <rect
     x="131"
-    width="9.184252068000001"
+    width="6.2740158159999995"
     height="12"
     rx="6"
     id="rect4"
     y="70.348068"
-    style="fill:#ffffff" />
+    style="fill:#cb171e" />
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -267,7 +267,7 @@
       id="tspan822"
       x="4.410491"
       y="81.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">CMake</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">YAML</tspan></text>
  <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -277,80 +277,6 @@
       id="tspan822-6"
       x="520.1073"
       y="81.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">35 mins</tspan></text>
-<!--Docsium::END-->,<!--Docsium::START-->
-<rect
-    x="131"
-    width="377.95276"
-    height="12"
-    rx="5.0059967"
-    id="rect2"
-    y="95.348068"
-    style="fill:#283446;stroke-width:0.91341817" />
- <rect
-    x="131"
-    width="5.8204725040000005"
-    height="12"
-    rx="6"
-    id="rect4"
-    y="95.348068"
-    style="fill:#e34c26" />
- <text
-    xml:space="preserve"
-    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-    x="4.410491"
-    y="106.16164"
-    id="text824"><tspan
-      id="tspan822"
-      x="4.410491"
-      y="106.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">HTML</tspan></text>
- <text
-    xml:space="preserve"
-    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-    x="520.1073"
-    y="106.98621"
-    id="text824-3"><tspan
-      id="tspan822-6"
-      x="520.1073"
-      y="106.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">22 mins</tspan></text>
-<!--Docsium::END-->,<!--Docsium::START-->
-<rect
-    x="131"
-    width="377.95276"
-    height="12"
-    rx="5.0059967"
-    id="rect2"
-    y="120.348068"
-    style="fill:#283446;stroke-width:0.91341817" />
- <rect
-    x="131"
-    width="5.2535433639999995"
-    height="12"
-    rx="6"
-    id="rect4"
-    y="120.348068"
-    style="fill:#cb171e" />
- <text
-    xml:space="preserve"
-    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-    x="4.410491"
-    y="131.16164"
-    id="text824"><tspan
-      id="tspan822"
-      x="4.410491"
-      y="131.16164"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">YAML</tspan></text>
- <text
-    xml:space="preserve"
-    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-    x="520.1073"
-    y="131.98621"
-    id="text824-3"><tspan
-      id="tspan822-6"
-      x="520.1073"
-      y="131.98621"
-      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">20 mins</tspan></text>
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Courier New', Courier, monospace;-inkscape-font-specification:'Courier New, Courier, monospace'">24 mins</tspan></text>
 <!--Docsium::END-->
 </svg>
